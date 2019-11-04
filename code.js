@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<p id="demo">Click the button to change the layout of this paragraph</p>
+<p id="demo">Nacisnij przycisk, aby zmienic szablon!</p>
 
-<button onclick="myFunction()">Click Me!</button>
+<button onclick="myFunction()">Nacisnij mnie!</button>
 
 <script>
 function myFunction() {
