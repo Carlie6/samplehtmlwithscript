@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<p id="demo">Nacisnij przycisk, aby zmienic szablon!</p>
-
-<button onclick="myFunction()">Nacisnij mnie!</button>
-
 <script>
 function myFunction() {
   var x = document.getElementById("demo");
@@ -13,6 +5,3 @@ function myFunction() {
   x.style.color = "blue"; 
 }
 </script>
-
-</body>
-</html>
