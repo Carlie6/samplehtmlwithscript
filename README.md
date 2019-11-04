@@ -1,2 +1,1 @@
-# samplejavascsript
-sample and easy js code for later use
+sample html file with easy java script
